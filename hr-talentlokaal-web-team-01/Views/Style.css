@@ -1,0 +1,41 @@
+body {
+    color: #1E796A !important;
+}
+
+a{
+    color: #1E796A !important;
+}
+
+tr{
+    color: #1E796A !important;
+}
+
+.button{
+    color: #1E796A !important;
+    background-color: #ef850b !important;
+    border-style: solid;
+    border-color: #C7C7C7;
+    border-radius: 5px;
+    margin: 1px;
+    text-decoration: none;
+}
+
+
+
+#home_text{
+    margin-left: 20px;
+}
+
+
+
+.login{
+
+    padding: 70px ;
+    text-align: center;
+}
+
+#logo{
+
+    position: center;
+
+}
